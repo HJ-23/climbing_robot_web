@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/climbing_robot_web/static/css/main.3adacfcc.css",
+    "main.js": "/climbing_robot_web/static/js/main.09c106c7.js",
+    "index.html": "/climbing_robot_web/index.html",
+    "main.3adacfcc.css.map": "/climbing_robot_web/static/css/main.3adacfcc.css.map",
+    "main.09c106c7.js.map": "/climbing_robot_web/static/js/main.09c106c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3adacfcc.css",
+    "static/js/main.09c106c7.js"
+  ]
+}

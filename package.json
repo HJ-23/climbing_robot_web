@@ -1,7 +1,7 @@
 {
   "name": "tunnel-robot-showcase",
   "version": "1.0.0",
-  "description": "隧道综合量测机器人产品展示网页",
+  "description": "新型爬壁机器人产品展示网页",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -27,7 +27,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hj-23.github.io/Tunnel_lighting_web",
+  "homepage": "https://hj-23.github.io/climbing_robot_web",
   "engines": {
   "node": ">=22.0.0"
   }
