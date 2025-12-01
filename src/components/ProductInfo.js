@@ -42,7 +42,7 @@ const ProductInfo = () => {
           新型爬壁机器人为小型多功能机器人，采用永磁吸附技术吸附于金属立面，通过两组驱动电机行走及差速转弯；底盘具有自适应结构，可在风电塔筒、管道、小容积储罐等小直径金属结构表面稳定吸附、行走及转弯。对工程背景的典型立柱开展结构分析，研制集成了基于永磁吸附式爬壁作业机器人及其用于原位修补的作业工具。
         </p>
         <a
-          href="https://www.bilibili.com/video/BV1JKUzBaE57/?vd_source=eb3a763f33da8c162da4e6c6c62bcceb"
+          href="https://www.bilibili.com/video/BV1h4SiB5Eqk/?spm_id_from=333.1387.homepage.video_card.click&vd_source=eb3a763f33da8c162da4e6c6c62bcceb"
           target="_blank"
           rel="noopener noreferrer"
           className="video-button"
