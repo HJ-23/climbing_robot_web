@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/climbing_robot_web/static/css/main.3adacfcc.css",
-    "main.js": "/climbing_robot_web/static/js/main.b1737a9c.js",
+    "main.css": "/climbing_robot_web/static/css/main.641d205f.css",
+    "main.js": "/climbing_robot_web/static/js/main.0dfa2b9e.js",
     "index.html": "/climbing_robot_web/index.html",
-    "main.3adacfcc.css.map": "/climbing_robot_web/static/css/main.3adacfcc.css.map",
-    "main.b1737a9c.js.map": "/climbing_robot_web/static/js/main.b1737a9c.js.map"
+    "main.641d205f.css.map": "/climbing_robot_web/static/css/main.641d205f.css.map",
+    "main.0dfa2b9e.js.map": "/climbing_robot_web/static/js/main.0dfa2b9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3adacfcc.css",
-    "static/js/main.b1737a9c.js"
+    "static/css/main.641d205f.css",
+    "static/js/main.0dfa2b9e.js"
   ]
 }
